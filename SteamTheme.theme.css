@@ -236,14 +236,16 @@
 	background-image: url("https://i.imgur.com/BZTf96G.png");
 }
 
+
 /* light */
+
 .theme-dark .members-1998pB, #friends .friends-table, .container-1UB9sr, .searchBar-6Kv8R2, .theme-dark .container-2Thooq, .theme-light .container-2Thooq, .scrollerWrap-1IAIlv, .messagesPopout-24nkyi, .containerCozyBounded-1rKFAn, .uploadModal-2ifh8j .inner-3nWsbo, .tabBarContainer-1s1u-z {
 	background-image: url("https://i.imgur.com/BZTf96G.png");
 	border-left: #22252B;
 }
 
 /* middle */
-.videoInner-3OR9J2, .theme-dark .body-SKIE6r, .uploadModal-2ifh8j .inner-3nWsbo {
+.theme-dark .body-SKIE6e, .uploadModal-2ifh8j .inner-3nWsbo {
 	background-image: url("https://i.imgur.com/POXiMpl.png");
 }
 
