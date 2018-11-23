@@ -23,9 +23,7 @@
     border-color: transparent !important;
     border: none !important
 }
-	
-	
-	
+		
 .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatar-popout, .mask-3OgeRz, .avatar-hint, .image-33JSyf, .callAvatarBorder-1D_KaE, .callAvatar-v-u4BM.voice-2D-tt_, .avatar-wrapper, .theme-dark .callAvatarWrapper-TICyxO .ripple-16ZT2p, .userSettingsAccount-2eMFVR .avatar-uploader-inner, .container-2Thooq .avatar-3JE4B3 {
 	border-radius: 0px !important;
 }
@@ -78,7 +76,7 @@
 	color: #fff;
 }
 
-.theme-dark .cardPrimary-1Hv-to,  {
+.theme-dark .cardPrimary-1Hv-to  {
 	background-image: url("https://steamcommunity-a.akamaihd.net/public/images/profile/profile_header_bg_texture.jpg");
 	background-position: center;
 	border: 0px;
@@ -212,11 +210,16 @@
 }
 
 .theme-dark .bda-slist li {
-	background: linear-gradient(to bottom, #16202d 0%,#16222f 100%);
-	border-top: 1px solid #25384c;
-    border-left: 1px solid #25384c;
-    border-right: 1px solid #000;
-    border-bottom: 1px solid #000;
+    line-height: normal;
+    background-color: rgba( 0, 0, 0, 0.2 );
+    padding: 10px 8px;
+    color: #6d6d6b;
+    margin-bottom: 13px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 1px solid #25384c;
+    border-bottom: 1px solid #25384c;
+    border-radius: 3px;
 }
 
 .theme-dark .messagesWrapper-3lZDfY, #friends .friends-table .friends-table-body {
